@@ -1,0 +1,9 @@
+table {
+    width: 800px;
+    border: 1px solid rgb(37, 71, 37);
+    margin: auto; 
+}
+
+td {
+    height: 15px;
+}
